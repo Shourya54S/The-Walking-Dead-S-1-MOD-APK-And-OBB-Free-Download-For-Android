@@ -1,0 +1,48 @@
+.heading{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+body{
+background-size:cover;
+background-position:center;  
+border-style:solid;
+border-width:8px;
+height:1125px;
+border-color:black;
+}
+#Heading{
+text-decoration:underline black 3px;
+border-style:solid;
+border-radius:100px;
+padding-left:50px;
+padding-right:50px;
+border-color:black;
+border-width:7px;
+}
+#button1 , #button2{
+width:180px;
+height:52px;
+}
+#img1{
+height:290px;    
+}
+#img2{
+width:430px;    
+}
+#a1 , #a2{
+font-size:30px; 
+color:black;   
+}
+#info{
+color:black;
+font-size:28px;
+border-style:solid;
+padding:10px;
+border-radius:50px;
+border-width:5px;
+border-color:greenyellow;
+}
+#h1{
+width:600px;    
+}
